@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "17bf8f57-a3e5-4b46-b2e9-70de56337a33",
+            "Value": {
+                "id": "f6961306-ae26-4899-91b8-50bbe70e8b60",
+                "resourcePath": "sprites\\sprGo\\sprGo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "190e778a-7bf3-4343-95f7-f7ff3e0490af",
             "Value": {
                 "id": "ffc4b686-7dae-4732-9b21-770e29dab1c6",
@@ -132,6 +140,14 @@
                 "id": "ab2730dc-2b38-4532-a24e-dbf8ee53c330",
                 "resourcePath": "views\\774a2991-f621-4c7c-a030-ee2a3b13b524.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "78c6ddb1-62ac-469e-ba78-46a8508c39fc",
+            "Value": {
+                "id": "c0d48719-1667-451b-80c2-7d9e50187e4b",
+                "resourcePath": "scripts\\showMovement\\showMovement.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -261,10 +277,19 @@
                 "resourcePath": "views\\f9502985-b23a-4415-80e1-3dab49dfff16.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fef84d90-bde4-4b54-bf32-8f3f196bc472",
+            "Value": {
+                "id": "28d83467-26f6-4f3b-8372-ea920dac69a4",
+                "resourcePath": "objects\\objGo\\objGo.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
-        "c6584069-e463-4122-b3d8-227d6f4393c1"
+        "c6584069-e463-4122-b3d8-227d6f4393c1",
+        "78c6ddb1-62ac-469e-ba78-46a8508c39fc"
     ],
     "tutorial": ""
 }
