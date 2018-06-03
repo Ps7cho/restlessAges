@@ -95,11 +95,51 @@
             }
         },
         {
+            "Key": "418319ad-2f50-4550-a3c6-f91d652ad156",
+            "Value": {
+                "id": "3220ec2e-9703-4656-84f4-f3e4804083ec",
+                "resourcePath": "sprites\\RoundTree\\RoundTree.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "49b119b8-017e-4baf-96d3-64635f176646",
             "Value": {
                 "id": "0cc0e113-4152-468f-b8a6-7776499978aa",
                 "resourcePath": "objects\\objWeapon\\objWeapon.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5236c629-8a15-4c02-8b95-a872c6831771",
+            "Value": {
+                "id": "43d32c97-5cc1-4ac3-a043-3009cf3bd7fa",
+                "resourcePath": "objects\\objBoulder3\\objBoulder3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5467d830-6b91-4a8a-ba86-ef83ad0f2f77",
+            "Value": {
+                "id": "b6118326-a3f2-4a86-b611-b0d4d94127cb",
+                "resourcePath": "objects\\objBoulder\\objBoulder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5816982e-ff4b-4857-9e43-6d0adf3f3962",
+            "Value": {
+                "id": "2b7519fb-2b1d-45d2-830b-42d4996a0400",
+                "resourcePath": "objects\\objTree\\objTree.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5fe733a0-eca7-4fe5-85d0-df33b6618346",
+            "Value": {
+                "id": "78431c4e-0499-400a-b907-b528ed8b16b4",
+                "resourcePath": "sprites\\Boulder\\Boulder.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -151,6 +191,14 @@
             }
         },
         {
+            "Key": "7b37e822-ae8e-428a-a46c-bb0bfacac974",
+            "Value": {
+                "id": "cc59630c-49ef-476d-bbc7-1565aa2a9c40",
+                "resourcePath": "sprites\\Boulder2\\Boulder2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8a886f79-ca1b-48c8-8197-bfec99b894b8",
             "Value": {
                 "id": "6759515b-1bcf-4718-9729-6b32e10a8834",
@@ -191,6 +239,14 @@
             }
         },
         {
+            "Key": "abb2c2e5-2b4e-478c-8bfa-988399059362",
+            "Value": {
+                "id": "d5da3f2b-9c9d-4691-a61b-e283833930c5",
+                "resourcePath": "objects\\objBoulder2\\objBoulder2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b4e31cc9-54c5-43ae-bccf-786efa223cf0",
             "Value": {
                 "id": "b5a35197-9bbf-44a7-b7bf-da5315a52b48",
@@ -228,6 +284,14 @@
                 "id": "4c04b5cf-dd09-4700-b474-0b56be01bd1b",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "cb16fa5e-6081-4062-971c-15c8c32a1129",
+            "Value": {
+                "id": "978f16c3-277f-4db0-b7d0-823c0e421511",
+                "resourcePath": "sprites\\Boulder3\\Boulder3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
