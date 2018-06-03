@@ -1,9 +1,9 @@
 /// @description 
 if isInitialized == false {
+	isInitialized = true;
 	actionsLeft = actionsAllowed;
 	startingXPosition = x;
 	startingYPosition = y;
-	isInitialized = true;
 	showMovement();
 }
 
