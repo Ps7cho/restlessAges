@@ -2,15 +2,15 @@
 actionsAllowed = 5;
 actionsLeft = actionsAllowed;
 
-MaxHP = 200;
-hp = MaxHP;
+maxHP = 200;
+hp = maxHP;
 
 attackDamage = 10;
-defence = 1;
+defense = 1;
 atackeRange = 1;
 
-startingXPostion = noone;
-startingYPostion = noone;
+startingXPosition = noone;
+startingYPosition = noone;
 myTurn = true;
 
 squareSize = 32;
