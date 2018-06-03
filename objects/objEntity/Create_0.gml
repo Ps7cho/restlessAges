@@ -1,5 +1,5 @@
 /// @description 
-actionsAllowed = 5;
+actionsAllowed = 1;
 actionsLeft = actionsAllowed;
 
 maxHP = 200;
@@ -11,7 +11,7 @@ atackeRange = 1;
 
 startingXPosition = noone;
 startingYPosition = noone;
-myTurn = true;
+myTurn = false;
 
 squareSize = 32;
 isInitialized = false
