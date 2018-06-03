@@ -1,5 +1,5 @@
 /// @description 
-actionsAllowed = 1;
+actionsAllowed = 2;
 actionsLeft = actionsAllowed;
 
 maxHP = 200;
