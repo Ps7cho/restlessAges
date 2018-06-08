@@ -24,7 +24,3 @@ if myTurn == true {
 	}
 }
 
-
-
-
-
